@@ -131,3 +131,15 @@ form {
     transition: all 0.2 ease-in;
     margin: 1em;
 }
+
+.mylogout {
+    background: whitesmoke;
+    background-image: linear-gradient(-315deg, #333 40%, #282c34 100%);
+    border: 1px solid #282c34;
+    padding: 10px 15px;
+    font-size: 16px;
+    color: whitesmoke;
+    box-shadow: 0 2px 5px 1px rgba(0, 0, 0, 0.12), 0 2px 2px 1px rgba(0, 0, 0, 0.24);
+    transition: all 0.2 ease-in;
+    margin: 1em;
+}

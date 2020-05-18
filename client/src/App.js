@@ -21,7 +21,7 @@ function App() {
 					) : (
 						<div className="protected-container">
 							<button
-								className="logout"
+								className="mylogout"
 								color="inherit"
 								onClick={logout}>
 								logout
