@@ -119,3 +119,15 @@ form {
     transition: all 0.2 ease-in;
     margin: 1em;
 }
+
+.myheading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4px 36px 4px 40px;
+    color: #282c34;
+    box-shadow: 0 1px 1px 1px rgba(0, 0, 0, 0.12), 0 1px 1px 1px rgba(0, 0, 0, 0.24);
+    height: 2em;
+    transition: all 0.2 ease-in;
+    margin: 1em;
+}

@@ -17,7 +17,7 @@ function App() {
 			<div className="app-container">
 				<div className="App">
 					{localStorage.getItem("token") === null ? (
-						<h2>Login</h2>
+						<h2 className='myheading'>THE LOGIN FORM</h2>
 					) : (
 						<div className="protected-container">
 							<button
